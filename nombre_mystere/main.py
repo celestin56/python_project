@@ -34,7 +34,7 @@ for i in [5,4,3,2,1,0]:
             continue
 
         elif client_number == nombre_mystere:
-            print(f'Bravo vous avez trouver le nombre mystere = {client_number}')
+            print(f'Bravo vous avez trouvé le nombre mystere = {client_number}')
             break
 
         continue
