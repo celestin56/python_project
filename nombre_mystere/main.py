@@ -1,3 +1,4 @@
+#ajout d'un commentaire 
 import random
 
 print("*** Le jeu du nombre mystére ***")
